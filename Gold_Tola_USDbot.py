@@ -1,8 +1,8 @@
 import requests
 
 # Your API keys (replace with yours)
-METAL_API_KEY = '48add23c07280ffe44442f4cbcabee1a'
-EXCHANGE_API_KEY = '9f13fc7329d9027455ea4e96'
+METAL_API_KEY = 'YOUR_API_KEY_HERE'
+EXCHANGE_API_KEY = 'YOUR_API_KEY_HERE'
 
 
 """
